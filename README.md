@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timothydrew92
 - 👀 I’m interested in video games, machine learning algorithms, prompt engineering, and sustainable AI, 
 - 🌱 I’m currently working on my AI/ML Post-grad certificate from Purdue University
-- 📫 How to reach me: timothydrew92@ygmail.com  
+- 📫 How to reach me: timothydrew92@gmail.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ordained minister and I've married over 10 couples! 
 
