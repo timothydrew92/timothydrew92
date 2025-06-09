@@ -42,8 +42,13 @@
 ### 🛠️ PoolPal Chatbot
 - 🔗 **Live Demo:** [poolpal-ai-chat.vercel.app](https://poolpal-ai-chat.vercel.app)
 - 🌐 Embedded into: [shoppoolmart.com](https://shoppoolmart.com)
-- 🧰 Tech: React widget + script, Vercel deployment
-- 💬 Description: Embedded AI chatbot designed for legacy WordPress sites — answers pool care questions and routes service needs.
+- 🧰 Tech: React, lightweight widget loader, Vercel hosting
+- 🎯 Features:
+  - Standalone React chat UI built for legacy website integration
+  - Dynamic message flow using GPT-3.5 logic
+  - Embedded via iframe due to legacy WordPress + Bluehost constraints
+- 💬 Description: A flexible AI chatbot designed to retrofit aging web platforms. PoolPal lives inside a legacy WordPress site to answer service questions and support customer engagement without a full site rebuild.
+
 
 ---
 
