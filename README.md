@@ -17,8 +17,12 @@
 
 ### 🧠 The AI Handyman
 - 🔗 **Live Site:** [theaihandyman.ai](https://www.theaihandyman.ai)
-- 🛠️ Tech: Next.js, Tailwind, Supabase, Stripe, Vercel
-- 💬 Description: Personal brand site for showcasing AI solutions and freelance services. Built with dynamic layout and clean UX.
+- 🛠️ Tech: Next.js (React), Tailwind CSS, Vercel, Supabase (planned), custom AI chatbot (OpenAI API)
+- 🎯 Features:
+  - Scroll-triggered animations for an interactive UI
+  - Custom chatbot logic powered by GPT-3.5
+  - Lightweight, responsive design optimized for small business AI tools
+- 💬 Description: Freelance AI integration brand site showcasing ethical, accessible tech for real-world business needs. Built from scratch with embedded AI assistants and thoughtful UX. Payments and invoicing handled via Wave (external).
 
 ---
 
