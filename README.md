@@ -28,8 +28,14 @@
 
 ### 📚 CyndiStuart.com Author Page *(pre-launch)*
 - 🔗 **Preview:** [cyndi-author-site.vercel.app](https://cyndi-author-site.vercel.app)
-- 🧰 Tech: Next.js, custom chatbot, static landing
-- 💬 Description: Author showcase site with newsletter, podcast, book links, and a unique "dressing room confessions" chatbot.
+- 🧰 Tech: Next.js (React), Tailwind CSS, Vercel, OpenAI GPT-3.5, Shopify (integration in progress)
+- 🎯 Features:
+  - AI-powered character chatbot (“Sophia” from *The Shadyside Novels*) in a “Dressing Room Confessions” format
+  - Book showcase with direct purchase links
+  - Embedded Shopify storefront for merchandise and session offerings (in progress)
+  - Email capture system for exclusive content access
+  - Future-ready layout for blog/podcast additions
+- 💬 Description: An immersive author site designed to bridge fiction and interaction. With a custom chatbot and planned e-commerce features, the platform invites readers into the world of Sophia while scaling Cyndi's personal brand.
 
 ---
 
