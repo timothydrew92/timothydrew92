@@ -26,7 +26,7 @@
 
 ---
 
-### 📚 Cyndi's Author Page *(pre-launch)*
+### 📚 CyndiStuart.com Author Page *(pre-launch)*
 - 🔗 **Preview:** [cyndi-author-site.vercel.app](https://cyndi-author-site.vercel.app)
 - 🧰 Tech: Next.js, custom chatbot, static landing
 - 💬 Description: Author showcase site with newsletter, podcast, book links, and a unique "dressing room confessions" chatbot.
