@@ -26,7 +26,7 @@
 
 ---
 
-### 📚 CyndiStuart.com Author Page *(pre-launch)*
+### 📚 CyndiStuart.com Author Page
 - 🔗 [cyndistuart.com](https://www.cyndistuart.com/))
 - 🧰 Tech: Next.js (React), Tailwind CSS, Vercel, OpenAI GPT-3.5, Shopify Integration
 - 🎯 Features:
