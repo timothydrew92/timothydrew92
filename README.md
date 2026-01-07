@@ -26,7 +26,7 @@
 ---
 
 ### 📚 CyndiStuart.com Author Page
-- 🔗 **Live Site:** [cyndistuart.com](https://www.cyndistuart.com/)
+- 🔗 **Live Site:** [cyndistuart.com](https://cyndi-author-site.vercel.app/)
 - 🧰 Tech: Next.js (React), Tailwind CSS, Vercel, OpenAI GPT-3.5, Shopify Integration
 - 🎯 Features:
   - AI-powered character chatbot (“Sophia” from *The Shadyside Novels*) in a “Dressing Room Confessions” format
