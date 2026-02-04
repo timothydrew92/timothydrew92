@@ -21,7 +21,7 @@
   - Scroll-triggered animations for an interactive UI
   - Custom chatbot logic powered by GPT-3.5
   - Lightweight, responsive design optimized for small business AI tools
-- 💬 Description: Freelance AI integration brand site showcasing ethical, accessible tech for real-world business needs. Built from scratch with embedded AI assistants and thoughtful UX. Payments and invoicing handled via Wave (external).
+- 💬 Description: Freelance AI integration brand site showcasing ethical, accessible tech for real-world business needs. Built from scratch with embedded AI assistants and thoughtful UX.
 
 ---
 
