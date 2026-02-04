@@ -25,30 +25,6 @@
 
 ---
 
-### 📚 CyndiStuart.com Author Page
-- 🔗 **Live Site:** [cyndistuart.com](https://cyndi-author-site.vercel.app/)
-- 🧰 Tech: Next.js (React), Tailwind CSS, Vercel, OpenAI GPT-3.5, Shopify Integration
-- 🎯 Features:
-  - AI-powered character chatbot (“Sophia” from *The Shadyside Novels*) in a “Dressing Room Confessions” format
-  - Book showcase with direct purchase links
-  - Embedded Shopify storefront for merchandise and session offerings (in progress)
-  - Email capture system for exclusive content access
-  - Future-ready layout for blog/podcast additions
-- 💬 Description: An immersive author site designed to bridge fiction and interaction. With a custom chatbot and planned e-commerce features, the platform invites readers into the world of Sophia while scaling Cyndi's personal brand.
-
----
-
-### 🛠️ PoolPal Chatbot
-- 🔗 **Live Demo:** [poolpal-ai-chat.vercel.app](https://poolpal-ai-chat.vercel.app)
-- 🌐 Embedded into: [shoppoolmart.com](https://shoppoolmart.com)
-- 🧰 Tech: React, lightweight widget loader, Vercel hosting
-- 🎯 Features:
-  - Standalone React chat UI built for legacy website integration
-  - Dynamic message flow using GPT-3.5 logic
-  - Embedded via iframe due to legacy WordPress + Bluehost constraints
-- 💬 Description: A flexible AI chatbot designed to retrofit aging web platforms. PoolPal lives inside a legacy WordPress site to answer service questions and support customer engagement without a full site rebuild.
-
-
 ---
 
 📫 **Want to collaborate or hire me?**  
