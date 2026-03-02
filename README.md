@@ -25,7 +25,7 @@
 
 ---
 ### 🧭 Personal AI Coach (Vibe Coding Demo)
-### GitHub Repo Link: https://github.com/timothydrew92/personal_ai_coach
+**GitHub Repo Link:** [Personal AI Coach](https://github.com/timothydrew92/personal_ai_coach)
 - 🔗 Workshop Build: Live-built with Cursor + Streamlit
 - 🛠️ Tech: Python, Streamlit, OpenAI API
 - 🎯 Features:
