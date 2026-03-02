@@ -37,6 +37,12 @@
 	- Zero-database, single-file architecture for rapid prototyping
 - 💬 Description: A live-built AI application designed to demonstrate structured vibe coding at scale. Converts personal or professional goals into actionable plans with milestones, risk mitigation, and reflection prompts. Built for clarity, speed, and reproducibility in large workshops.
 ---
+## 🌎 Connect
+
+- LinkedIn: [Timothy Henize](https://linkedin.com/in/timothy-henize-327a2a163)
+- TikTok: @theaihandyman.ai
+- Instagram: @theaihandyman.ai
+- Website: https://theaihandyman.ai
 
 📫 **Want to collaborate or hire me?**  
 Reach out at [timothy@theaihandyman.ai](mailto:timothy@theaihandyman.ai)
