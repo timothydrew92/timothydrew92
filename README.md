@@ -25,9 +25,9 @@
 
 ---
 🧭 Personal AI Coach (Vibe Coding Demo)
-	•	🔗 Workshop Build: Live-built with Cursor + Streamlit
-	•	🛠️ Tech: Python, Streamlit, OpenAI API
-	•	🎯 Features:
+- 🔗 Workshop Build: Live-built with Cursor + Streamlit
+- 🛠️ Tech: Python, Streamlit, OpenAI API
+- 🎯 Features:
 	•	Goal-to-action structured planning engine
 	•	Persona-driven coaching styles (Supportive, Direct, Analytical)
 	•	JSON-structured outputs for reliable formatting
