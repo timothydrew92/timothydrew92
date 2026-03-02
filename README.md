@@ -1,9 +1,6 @@
 # 👋 Hi, I’m Tim
 **Founder — The AI Handyman LLC** [theaihandyman.ai](https://www.theaihandyman.ai)
 
-I build practical AI systems that turn ideas into working tools.  
-This repository demonstrates structured vibe coding at scale.
-
 - 🤖 I design ethical, human-centered AI tools that make real-world tech feel accessible — not overwhelming.  
 - 🚀 I build **custom AI solutions** for businesses, including smart assistants, chatbots, and AI-powered upgrades for websites and workflows.  
 - 💡 I also **teach Generative AI** to developers and technical teams, helping them learn how to integrate LLMs, build RAG pipelines, and apply AI in practical coding contexts.  
