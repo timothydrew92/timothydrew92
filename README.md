@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tim
+# 👋 I’m Tim | The Ai Handyman
 **Founder — The AI Handyman LLC** [theaihandyman.ai](https://www.theaihandyman.ai)
 
 - 🤖 I design ethical, human-centered AI tools that make real-world tech feel accessible — not overwhelming.  
