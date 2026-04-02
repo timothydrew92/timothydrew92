@@ -20,9 +20,21 @@
 - 🛠️ Tech: Next.js (React), Tailwind CSS, Vercel, Supabase (planned), custom AI chatbot (OpenAI API)
 - 🎯 Features:
   - Scroll-triggered animations for an interactive UI
-  - Custom chatbot logic powered by GPT-3.5
+  - Custom chatbot logic powered by OpenAI API
   - Lightweight, responsive design optimized for small business AI tools
 - 💬 Description: Freelance AI integration brand site showcasing ethical, accessible tech for real-world business needs. Built from scratch with embedded AI assistants and thoughtful UX.
+
+---
+### ✈️ Cavendish Aviation (Client Project)
+- 🔗 **Live Site:** [cavendishaviation.net](https://www.cavendishaviation.net)
+- 🛠️ Tech: Vite (React), Tailwind CSS, Vercel, Supabase, dynamic listing system
+- 🎯 Features:
+  - Custom aircraft listing system with dynamic data rendering
+  - Supabase-powered backend for managing aircraft inventory
+  - Internal listing submission + preview workflow for client use
+  - SEO-optimized structure with sitemap + metadata control
+  - Mobile-responsive, high-performance redesign (migrated from Wix)
+- 💬 Description: Full website redesign and AI-ready infrastructure build for a private aviation business. Migrated from Wix to a modern Vite + Vercel stack, improving performance, SEO control, and scalability. Designed a custom listing system so the client can manage aircraft inventory independently without technical friction.
 
 ---
 ### 🧭 Personal AI Coach (Vibe Coding Demo)
