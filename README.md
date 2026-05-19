@@ -24,6 +24,16 @@
   - Lightweight, responsive design optimized for small business AI tools
 - 💬 Description: Freelance AI integration brand site showcasing ethical, accessible tech for real-world business needs. Built from scratch with embedded AI assistants and thoughtful UX.
 
+### 🌍 The AI Handyman (.org site) (Community)
+- 🔗 **Live Site:** [theaihandyman.org](https://www.theaihandyman.org)
+- 🛠️ Tech: Next.js (React), Tailwind CSS, Vercel, Firestore, Gemini API
+- 🎯 Features:
+  - Community story submissions with moderation workflow
+  - Interactive world map of contributor perspectives
+  - Newsletter automation (Vercel Cron + Gemini)
+  - Read-only admin dashboard for managing submissions
+- 💬 Description: A growing hub for diverse technical perspectives on AI tools. Too many AI conversations are shaped by data and voices from a few countries. This project collects stories and technical insights from practitioners around the world—engineers, educators, founders, tinkerers—building a richer, more representative picture of how these tools actually work in different contexts and constraints. Open for contributions.
+
 ---
 ### ✈️ Cavendish Aviation (Client Project)
 - 🔗 **Live Site:** [cavendishaviation.net](https://www.cavendishaviation.net)
