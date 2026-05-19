@@ -4,7 +4,7 @@
 - 🤖 I design ethical, human-centered AI tools that make real-world tech feel accessible — not overwhelming.  
 - 🚀 I build **custom AI solutions** for businesses, including smart assistants, chatbots, and AI-powered upgrades for websites and workflows.  
 - 💡 I also **teach Generative AI** to developers and technical teams, helping them learn how to integrate LLMs, build RAG pipelines, and apply AI in practical coding contexts.  
-- 🌍 Passionate about prompt engineering, sustainable AI, and closing the accessibility gap in machine learning.  
+- 🌍 Passionate about prompt engineering, sustainable AI, and closing the knowledge gap in machine learning and with AI productivity tools.  
 
 ## 🎓 Education
 - Postgraduate Certificate: AI & Machine Learning (Purdue University)  
