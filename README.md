@@ -24,7 +24,7 @@
   - Lightweight, responsive design optimized for small business AI tools
 - 💬 Description: Freelance AI integration brand site showcasing ethical, accessible tech for real-world business needs. Built from scratch with embedded AI assistants and thoughtful UX.
 
-### 🌍 The AI Handyman (.org site) (Community)
+### 🌍 The AI Handyman Community (.org site)
 - 🔗 **Live Site:** [theaihandyman.org](https://www.theaihandyman.org)
 - 🛠️ Tech: Next.js (React), Tailwind CSS, Vercel, Firestore, Gemini API
 - 🎯 Features:
